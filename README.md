@@ -96,10 +96,11 @@ Studying vulnerabilities, authentication, security mechanisms, and responsible t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Murad-Jaan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" height="165" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-Jaan&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Murad-Jaan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" height="180" alt="GitHub statistics" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Murad-Jaan&bg_color=0d1117&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-Jaan&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9" height="180" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Murad-Jaan&bg_color=0d1117&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity" />
 
 </div>
 
